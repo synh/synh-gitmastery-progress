@@ -197,5 +197,14 @@
       "Answer for What's sum of values in north.csv on Jan 05th? is not right."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1770195226.227818,
+    "completed_at": 1770195232.868753,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
